@@ -17,5 +17,6 @@ Describe claramente el problema.
 ## Comportamiento esperado
 ¿Qué debería ocurrir?
 
-## Evidencia
+## Evidencia (screenshots, logs)
 Adjunta capturas, logs o videos si aplica.
+
