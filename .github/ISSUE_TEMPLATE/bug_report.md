@@ -1,10 +1,7 @@
----
-name: Bug report
+## name: Bug report
 about: Reportar un error
 title: "[BUG] "
 labels: bug
----
-
 ## Descripción del bug
 Describe claramente el problema.
 
