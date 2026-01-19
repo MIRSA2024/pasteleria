@@ -42,3 +42,4 @@ La organización objeto de estudio es una pastelería de tamaño pequeño–medi
 - Lombok para reducir código boilerplate
 - Maven como gestor de dependencias y build
 - Juan Carlos Huaman Calle
+- Kevin Fabian Vargas Arroyo
