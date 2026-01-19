@@ -41,3 +41,4 @@ La organización objeto de estudio es una pastelería de tamaño pequeño–medi
 - H2 Database para desarrollo/pruebas
 - Lombok para reducir código boilerplate
 - Maven como gestor de dependencias y build
+- mirtha salas
