@@ -1,0 +1,11 @@
+## Descripción del cambio
+- [ ] Nueva funcionalidad
+- [ ] Corrección de error
+- [ ] Mejora técnica
+
+## Checklist de calidad
+- [ ] El código compila correctamente
+- [ ] Se respetan las convenciones de nombres
+- [ ] No hay código duplicado
+- [ ] Se realizaron pruebas básicas
+- [ ] No se afecta funcionalidad existente
