@@ -11,7 +11,7 @@
 
 ## Descripción
 
-Aplicación web para la gestión de pedidos de una pastelería, con catálogo de productos, carrito de compras, seguimiento de pedidos y panel de administración para gestionar productos, pedidos y entregas.
+Aplicación web para la gestión de pedidos de una pastelería (versión MAIN), con catálogo de productos, carrito de compras, seguimiento de pedidos y panel de administración para gestionar productos, pedidos y entregas.
 
 ## Contexto del negocio
 
