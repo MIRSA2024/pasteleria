@@ -3,7 +3,6 @@ name: Bug report
 about: Reportar un error
 title: "[BUG] "
 labels: bug
-assignees: ''
 ---
 
 ## Descripción del bug
