@@ -44,8 +44,8 @@ La organización objeto de estudio es una pastelería de tamaño pequeño–medi
 
   ### Roles Scrum
 
--Product Owner – Mirtha Salas
--Scrum Master – Kevin Vargas
--Desarrollador Backend – Juan Carlos Huamán
--Desarrollador Frontend – Edwar Julca
--Responsable de Calidad y Pruebas (QA) – Raúl Robalino
+- Product Owner – Mirtha Salas
+- Scrum Master – Kevin Vargas
+- Desarrollador Backend – Juan Carlos Huamán
+- Desarrollador Frontend – Edwar Julca
+- Responsable de Calidad y Pruebas (QA) – Raúl Robalino
