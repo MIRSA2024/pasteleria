@@ -41,3 +41,11 @@ La organización objeto de estudio es una pastelería de tamaño pequeño–medi
 - H2 Database para desarrollo/pruebas
 - Lombok para reducir código boilerplate
 - Maven como gestor de dependencias y build
+
+  ### Roles Scrum
+
+-Product Owner – Mirtha Salas
+-Scrum Master – Kevin Vargas
+-Desarrollador Backend – Juan Carlos Huamán
+-Desarrollador Frontend – Edwar Julca
+-Responsable de Calidad y Pruebas (QA) – Raúl Robalino
