@@ -48,3 +48,5 @@ El proyecto usa GitHub Actions para:
 - Ejecutar pruebas
 - Validar calidad del código
 - Generar artefactos
+  
+- ![CI](https://github.com/USUARIO/REPO/actions/workflows/maven.yml/badge.svg)
