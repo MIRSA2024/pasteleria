@@ -1,6 +1,6 @@
 # Pastelería Backend
 
-[![CI](https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml/badge.svg)](https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml)
+
 # Sistema de Ventas para Pastelería
 
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
