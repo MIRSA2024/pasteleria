@@ -1,6 +1,7 @@
 # Pastelería Backend
 
-[![CI](https://github.com/MIRSA2024/pasteleria/actions/workflows/maven.yml/badge.svg)](https://github.com/MIRSA2024/pasteleria/actions)
+[![CI]
+(https://github.com/MIRSA2024/pasteleria/actions/workflows/maven.yml/badge.svg)](https://github.com/MIRSA2024/pasteleria/actions)
 # Sistema de Ventas para Pastelería
 
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
