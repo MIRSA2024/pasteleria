@@ -50,4 +50,4 @@ El proyecto usa GitHub Actions para:
 - Generar artefactos
   
 - ![CI]
-- (https://github.com/USUARIO/REPO/actions/workflows/maven.yml/badge.svg)
+- https://github.com/USUARIO/REPO/actions/workflows/maven.yml/badge.svg
