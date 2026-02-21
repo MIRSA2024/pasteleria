@@ -41,3 +41,5 @@ La organización objeto de estudio es una pastelería de tamaño pequeño–medi
 - H2 Database para desarrollo/pruebas
 - Lombok para reducir código boilerplate
 - Maven como gestor de dependencias y build
+- ![CI]
+- (https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml/badge.svg)
