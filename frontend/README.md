@@ -41,3 +41,10 @@ La organización objeto de estudio es una pastelería de tamaño pequeño–medi
 - H2 Database para desarrollo/pruebas
 - Lombok para reducir código boilerplate
 - Maven como gestor de dependencias y build
+
+- ## 🚀 Integración Continua
+El proyecto usa GitHub Actions para:
+- Compilar automáticamente
+- Ejecutar pruebas
+- Validar calidad del código
+- Generar artefactos
