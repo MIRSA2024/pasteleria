@@ -32,11 +32,12 @@ jobs:
         working-directory: backend
         run: mvn -B package
 
-      # - name: Analyze with SonarCloud
-      #   working-directory: backend
-      #   run: mvn -B verify sonar:sonar
-      #   env:
-      #     m123: ${{ secrets.m123 }}
+      - name: Analyze with SonarCloud
+        if: ${{ secrets.SONAR_TOKEN != '' }}
+        working-directory: backend
+        run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:4.0.0.4121:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=TU_ORG -Dsonar.projectKey=TU_KEY
+       env:
+              SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
       - name: Update dependency graph
         uses: advanced-security/maven-dependency-submission-action@571e99aab1055c2e71a1e2309b9691de18d6b7d6
