@@ -1,3 +1,4 @@
+[![CI](https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml/badge.svg)](https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml)
 # Sistema de Ventas para Pastelería
 
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
@@ -41,5 +42,4 @@ La organización objeto de estudio es una pastelería de tamaño pequeño–medi
 - H2 Database para desarrollo/pruebas
 - Lombok para reducir código boilerplate
 - Maven como gestor de dependencias y build
-- ![CI]
-- (https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml/badge.svg)
+
