@@ -29,10 +29,12 @@ jobs:
           cache: maven
 
       - name: Build with Maven
-        run: mvn -B package --file pom.xml
+        working-directory: backend
+        run: mvn -B package
 
       - name: Analyze with SonarCloud
-        run: mvn verify sonar:sonar
+        working-directory: backend
+        run: mvn -B verify sonar:sonar
         env:
           m123: ${{ secrets.m123 }}
 
