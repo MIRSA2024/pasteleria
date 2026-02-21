@@ -1,3 +1,5 @@
+# Pastelería Backend
+
 [![CI](https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml/badge.svg)](https://github.com/fabianvargas/pasteleria-backend/actions/workflows/maven.yml)
 # Sistema de Ventas para Pastelería
 
